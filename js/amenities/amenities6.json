@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Casino Niagara",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.07211110000003,43.09153000000001,0.0"
+        }
+    },
+    {
+        "name": "Fallsview Casino Resort",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08101909999999,43.0823258,0.0"
+        }
+    }
+]

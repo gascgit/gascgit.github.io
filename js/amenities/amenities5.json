@@ -1,0 +1,26 @@
+[
+    {
+        "name": "American Falls",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.0705776,43.0852822,0.0"
+        }
+    },
+    {
+        "name": "Bridal Veil Falls",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.0713072,43.0842949,0.0"
+        }
+    },
+    {
+        "name": "Horseshoe Falls",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.0740967,43.0833389,0.0"
+        }
+    }
+]

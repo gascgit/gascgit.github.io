@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Short Hills Provincial Park",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.28175899999997,43.0981591,0.0"
+        }
+    },
+    {
+        "name": "Rockway Conservation Area",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.30852829999998,43.125863,0.0"
+        }
+    },
+    {
+        "name": "Charnwood Park",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.12733450000002,43.0756733,0.0"
+        }
+    },
+    {
+        "name": "Kalar Sports Park",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.13897810000003,43.0764886,0.0"
+        }
+    },
+    {
+        "name": "Prince Charles Park",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.10016080000004,43.0727663,0.0"
+        }
+    },
+    {
+        "name": "AG Bridge Park",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.10651380000002,43.0841703,0.0"
+        }
+    },
+    {
+        "name": "Goat Island (US) ",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.0681744,43.080659,0.0"
+        }
+    },
+    {
+        "name": "Thundering Waters Golf Club",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.09231490000002,43.06622,0.0"
+        }
+    },
+    {
+        "name": "Oak Hall Par 3 Golf Course",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.075467,43.069411,0.0"
+        }
+    },
+    {
+        "name": "Dufferin Islands",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.0709209,43.068637,0.0"
+        }
+    },
+    {
+        "name": "Weaver Park",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.105854,43.0791544,0.0"
+        }
+    },
+    {
+        "name": "Queen Victoria Park",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.0773582,43.0860893,0.0"
+        }
+    },
+    {
+        "name": "Firemen's Park",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.1159391,43.1414226,0.0"
+        }
+    },
+    {
+        "name": "Mewburn Road Recreation Area",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.130187,43.139575,0.0"
+        }
+    },
+    {
+        "name": "Walker Park",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.1074419,43.1434579,0.0"
+        }
+    },
+    {
+        "name": "Queenston Heights Park ",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.0589905,43.15704620000001,0.0"
+        }
+    },
+    {
+        "name": "Oaklands Golf Course",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.07510000000002,43.0448,0.0"
+        }
+    }
+]

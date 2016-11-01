@@ -1,0 +1,184 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 16, 2016, 10:56:22 AM
+    Author     : sergio
+*/
+
+$none: none;
+$primary-bg: #FFF;
+$primary-txt: #000;
+
+$nav-link: #CC0000;
+$nav-hover: #DDD;
+
+$err-border: 2px #FF0000 solid;
+$err-txt: #CC0000;
+
+@mixin box-shadow($opacity){
+    -webkit-box-shadow: inset 0px 0px 7px 0px rgba(255,0,0,$opacity);
+    -moz-box-shadow: inset 0px 0px 7px 0px rgba(255,0,0,$opacity);
+    box-shadow: inset 0px 0px 7px 0px rgba(255,0,0,$opacity);
+}
+
+@mixin input-placeholder(){
+    color: #FFF;
+    text-transform: uppercase;
+}
+
+.trans {
+    -webkit-transition: 500ms;
+    -moz-transition: 500ms;
+    -o-transition: 500ms;
+    transition: 500ms;
+}
+
+body {
+    background: $primary-bg;
+    color: $primary-txt;
+}
+
+a {
+    @extend .trans;  
+    text-decoration: $none; 
+}
+
+a:hover {
+    opacity:.5;
+}
+
+
+/* ==========================================================================
+   Form Error
+   ========================================================================== */
+
+.input-err {
+    border: $err-border;
+    @include box-shadow(.5);
+}
+
+.err-msg {
+    color:$err-txt;
+    display:$none;                
+}
+
+/* ==========================================================================
+   Input Placeholder
+   ========================================================================== */
+
+input[type="text"]::-webkit-input-placeholder, input[type="text"]::-moz-placeholder, input[type="text"]:-moz-placeholder, input[type="text"]:-ms-input-placeholder {
+    @include input-placeholder
+}
+
+/* ==========================================================================
+   Navbar
+   ========================================================================== */
+
+#navbar .navbar-form a {
+    color:$nav-link;
+    font-size: 11pt;
+}
+
+#navbar .navbar-form a:hover {    
+    color:$nav-hover;
+    text-decoration:$none;
+}
+
+#navbar .navbar-form .sep {
+    margin:0 8px;
+}
+
+#navbar .navbar-form .actv {
+    color:$nav-hover;
+}
+
+.navbar-inverse {
+    background:$primary-bg;
+    border:0;
+    min-height:80px;
+    border-bottom:1px solid #FF0000;
+}
+
+.navbar-brand {
+    height:auto;
+}
+
+.navbar-brand img {
+    max-width:200px;
+    max-height:80px;
+}
+
+#navbar li, #middle-menu li, footer li {
+    display:inline-block;
+}
+
+.navbar-toggle {
+    background: #EE3524;
+}
+
+/* ==========================================================================
+   Media
+   ========================================================================== */
+
+@media only screen and (max-width: 1200px){
+
+}
+
+@media only screen and (max-width: 992px){
+
+}
+
+@media only screen and (max-width: 768px){
+
+
+    /* ==========================================================================
+    Navbar
+    ========================================================================== */
+
+    #navbar {
+        text-align:left !important;
+    }
+
+    #navbar-container {
+        float:$none;
+        position:relative;
+        padding-top:0;
+    }
+
+    .navbar-form {
+        border:0;
+        margin-top:0;
+    }
+
+    .navbar-form li, #middle-menu li, footer li  {
+        display:block;                   
+        margin: 5px 0;
+    }
+    .navbar-collapse .navit {
+        border-bottom: 1px solid #FFF;
+        padding: 10px 0;
+    }
+    .navbar-form li span {
+        display:block;
+    }
+    .navit-circle, .navit-circle-wh {
+        display:none !important;
+    }
+    .navbar-fixed-top {
+        height:auto;
+    }
+
+    #navbar li, #navbar li a {
+        display: block;
+        width:100%;
+        padding:5px;                
+    }
+
+    #navbar li {
+        border-bottom:#CCC solid 1px;
+    }
+
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "MGM Studios Plaza Niagara Falls",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.07319669999998,43.09075290000001,0.0"
+        }
+    },
+    {
+        "name": "Napoli Ristorante Pizzeria",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08516880000002,43.0897151,0.0"
+        }
+    },
+    {
+        "name": "Jimmy Buffett's Margaritaville",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08257090000001,43.0837672,0.0"
+        }
+    },
+    {
+        "name": "Coco's Terrace Steakhouse",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08200219999998,43.08398770000001,0.0"
+        }
+    },
+    {
+        "name": "Outback Steakhouse Niagara Falls",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08293859999998,43.0783883,0.0"
+        }
+    },
+    {
+        "name": "My Cousin Vinny's",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08377669999999,43.0806845,0.0"
+        }
+    },
+    {
+        "name": "Country Chalet Restaurant",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08336629999997,43.0810442,0.0"
+        }
+    },
+    {
+        "name": "Applebee's",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08223550000002,43.08055389999999,0.0"
+        }
+    },
+    {
+        "name": "Zappi's",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08441570000004,43.0786956,0.0"
+        }
+    },
+    {
+        "name": "AlMac's Buffet",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08433509999998,43.0897831,0.0"
+        }
+    },
+    {
+        "name": "Sicilian Garden Restaurant",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08533999999997,43.08964599999999,0.0"
+        }
+    },
+    {
+        "name": "Terrapin Grille Fallsview Restaurant",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.082067,43.07834819999999,0.0"
+        }
+    },
+    {
+        "name": "Marilyn's Bistro & Lounge",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08204180000001,43.07866,0.0"
+        }
+    },
+    {
+        "name": "The Keg Steakhouse + Bar - Fallsview/Embassy Suites",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08218740000001,43.07962700000001,0.0"
+        }
+    },
+    {
+        "name": "T.G.I Friday's Niagara Falls",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08261199999998,43.079764,0.0"
+        }
+    }
+]

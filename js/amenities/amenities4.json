@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Journey Behind the Falls",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.07881220000002,43.0792017,0.0"
+        }
+    },
+    {
+        "name": "Fallsview Casino Resort",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08101909999999,43.0823258,0.0"
+        }
+    },
+    {
+        "name": "Niagara Falls IMAX Theatre",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08212579999997,43.0852115,0.0"
+        }
+    },
+    {
+        "name": "Skylon Tower",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.07956200000001,43.0850931,0.0"
+        }
+    },
+    {
+        "name": "Niagara Falls Tourism",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08232809999998,43.08601659999999,0.0"
+        }
+    },
+    {
+        "name": "Ripley's Believe It Or Not",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.07586579999997,43.0915134,0.0"
+        }
+    },
+    {
+        "name": "Movieland Wax Museum Niagara Falls",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.0739921,43.09083959999999,0.0"
+        }
+    },
+    {
+        "name": "Clifton Hill ",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.0754914,43.0916679,0.0"
+        }
+    },
+    {
+        "name": "Fallsview Indoor Waterpark",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.0718596,43.0924294,0.0"
+        }
+    },
+    {
+        "name": "Casino Niagara",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.07211110000003,43.09153000000001,0.0"
+        }
+    },
+    {
+        "name": "Scotiabank Convention Centre",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.08465160000003,43.07610319999999,0.0"
+        }
+    },
+    {
+        "name": "Great Wolf Lodge",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "ExtendedData": "\n\t\t\t\t",
+        "Point": {
+            "coordinates": "-79.0709397,43.1163663,0.0"
+        }
+    }
+]
